@@ -1,0 +1,6 @@
+{
+  "name": "Aether Flow",
+  "description": "AI Video Automation Dashboard featuring liquid glass UI, automated scheduling, channel analytics, AI metadata generation, and integrations hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
